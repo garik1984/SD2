@@ -4,7 +4,7 @@ from IPython import get_ipython
 from pathlib import Path
 import subprocess, json, shlex
 
-xxx = "/home/studio-lab-user"
+xxx = "/home/sagemaker-user"
 cp = f"{xxx}/.conda/pantat88.css"
 sp = f"{xxx}/.ipython/profile_default/startup"
 nsp = f"{sp}/nenen88.py"
